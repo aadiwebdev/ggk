@@ -66,7 +66,7 @@ public class AddTwoFloatNumbers
 	   return a;
 	}
 	// This method is mainly implemented to populate bits(padding of bits).
-	public static string populateBits(String s,int num,bool isDecimal)
+	public static string PopulateBits(String s,int num,bool isDecimal)
 	{
 		string a=String.Empty;
 		while(num!=0)
@@ -115,19 +115,19 @@ public class AddTwoFloatNumbers
 		
 		if(sizeOfFirstDecimalBits > sizeOfSecondDecimalBits)
 		{
-		  sSecondDecimalPart = populateBits(sSecondDecimalPart,sizeOfFirstDecimalBits-sizeOfSecondDecimalBits,true);
+		  sSecondDecimalPart = PopulateBits(sSecondDecimalPart,sizeOfFirstDecimalBits-sizeOfSecondDecimalBits,true);
 		}
 		else
 		{
-          sFirstDecimalPart=populateBits(sFirstDecimalPart,sizeOfSecondDecimalBits-sizeOfFirstDecimalBits,true);		
+          sFirstDecimalPart=PopulateBits(sFirstDecimalPart,sizeOfSecondDecimalBits-sizeOfFirstDecimalBits,true);		
 		}
 		if(sizeOfFirstFractionalBits>sizeOfSecondFractionalBits)
 		{
-		  sSecondFractionalPart = populateBits(sSecondFractionalPart,sizeOfFirstFractionalBits-sizeOfSecondFractionalBits,false);
+		  sSecondFractionalPart = PopulateBits(sSecondFractionalPart,sizeOfFirstFractionalBits-sizeOfSecondFractionalBits,false);
 		}
 		else
 		{
-          sFirstFractionalPart=populateBits(sFirstFractionalPart,sizeOfSecondFractionalBits-sizeOfFirstFractionalBits,false);		
+          sFirstFractionalPart=PopulateBits(sFirstFractionalPart,sizeOfSecondFractionalBits-sizeOfFirstFractionalBits,false);		
 		}
 	      firstBinaryNumber = sFirstDecimalPart +"." + sFirstFractionalPart;
 		  secondBinaryNumber = sSecondDecimalPart+"."+sSecondFractionalPart;
