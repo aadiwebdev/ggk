@@ -1,0 +1,10 @@
+c:\Users\Aditya.Tangirala\Documents\debug\GgkAssignment\AddTwoFloatNumbers\bin\Debug\netcoreapp2.0\AddTwoFloatNumbers.deps.json
+c:\Users\Aditya.Tangirala\Documents\debug\GgkAssignment\AddTwoFloatNumbers\bin\Debug\netcoreapp2.0\AddTwoFloatNumbers.runtimeconfig.json
+c:\Users\Aditya.Tangirala\Documents\debug\GgkAssignment\AddTwoFloatNumbers\bin\Debug\netcoreapp2.0\AddTwoFloatNumbers.runtimeconfig.dev.json
+c:\Users\Aditya.Tangirala\Documents\debug\GgkAssignment\AddTwoFloatNumbers\bin\Debug\netcoreapp2.0\AddTwoFloatNumbers.dll
+c:\Users\Aditya.Tangirala\Documents\debug\GgkAssignment\AddTwoFloatNumbers\bin\Debug\netcoreapp2.0\AddTwoFloatNumbers.pdb
+c:\Users\Aditya.Tangirala\Documents\debug\GgkAssignment\AddTwoFloatNumbers\obj\Debug\netcoreapp2.0\AddTwoFloatNumbers.csproj.CoreCompileInputs.cache
+c:\Users\Aditya.Tangirala\Documents\debug\GgkAssignment\AddTwoFloatNumbers\obj\Debug\netcoreapp2.0\AddTwoFloatNumbers.AssemblyInfoInputs.cache
+c:\Users\Aditya.Tangirala\Documents\debug\GgkAssignment\AddTwoFloatNumbers\obj\Debug\netcoreapp2.0\AddTwoFloatNumbers.AssemblyInfo.cs
+c:\Users\Aditya.Tangirala\Documents\debug\GgkAssignment\AddTwoFloatNumbers\obj\Debug\netcoreapp2.0\AddTwoFloatNumbers.dll
+c:\Users\Aditya.Tangirala\Documents\debug\GgkAssignment\AddTwoFloatNumbers\obj\Debug\netcoreapp2.0\AddTwoFloatNumbers.pdb
