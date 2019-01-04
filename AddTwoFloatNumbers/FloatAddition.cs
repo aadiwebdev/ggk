@@ -8,20 +8,25 @@ public class FloatAddition
      /// <param name="number"></param>
      /// <returns>int</returns>
     
-    public  int CalculateDecimalPart(double number)
+    public  string CalculateDecimalPart(double number)
     {
-        int result=0,place=1; 
+        string result=string.Empty; 
         int decimalPart =(int)Math.Truncate(number);	
         while(decimalPart!=0)
         {
-            int Remainder = decimalPart%2;
-            decimalPart /= 2;
-            result += Remainder*place;
-            place *= 10;
+            int remainder = decimalPart % 2;
+            result+=remainder.ToString();
+            decimalPart=decimalPart/2;
          }
-         Console.WriteLine("decimal part :"+result);
-         return result;
+         return Reverse(result);
    }
+
+   public string Reverse( string s )
+{
+    char[] charArray = s.ToCharArray();
+    Array.Reverse( charArray );
+    return new string( charArray );
+}
      /// <summary>
      ///    This method represents flipping bits from 1 to 0 and viceversa.
      /// </summary>
