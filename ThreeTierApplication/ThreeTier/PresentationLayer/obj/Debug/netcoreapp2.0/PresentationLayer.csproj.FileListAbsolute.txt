@@ -1,0 +1,16 @@
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\bin\Debug\netcoreapp2.0\PresentationLayer.deps.json
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\bin\Debug\netcoreapp2.0\PresentationLayer.runtimeconfig.json
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\bin\Debug\netcoreapp2.0\PresentationLayer.runtimeconfig.dev.json
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\bin\Debug\netcoreapp2.0\PresentationLayer.dll
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\bin\Debug\netcoreapp2.0\PresentationLayer.pdb
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.AssemblyInfo.cs
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.dll
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.pdb
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\bin\Debug\netcoreapp2.0\BusinessLayer.dll
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.dll
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\bin\Debug\netcoreapp2.0\BusinessLayer.pdb
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\bin\Debug\netcoreapp2.0\DataAccessLayer.pdb
+C:\Users\aditya.tangirala\Documents\ThreeTierApplication-1.0\ThreeTier\PresentationLayer\obj\Debug\netcoreapp2.0\PresentationLayer.csproj.CopyComplete
