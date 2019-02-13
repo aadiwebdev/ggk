@@ -1,0 +1,12 @@
+C:\Users\aditya.tangirala\source\repos\DataAccess\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\aditya.tangirala\source\repos\DataAccess\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\aditya.tangirala\source\repos\DataAccess\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\aditya.tangirala\source\repos\DataAccess\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aditya.tangirala\source\repos\DataAccess\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\aditya.tangirala\source\repos\DataAccess\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\aditya.tangirala\source\repos\ThreeTierApplication\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\aditya.tangirala\source\repos\ThreeTierApplication\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\aditya.tangirala\source\repos\ThreeTierApplication\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\aditya.tangirala\source\repos\ThreeTierApplication\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aditya.tangirala\source\repos\ThreeTierApplication\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\aditya.tangirala\source\repos\ThreeTierApplication\DataAccess\obj\Debug\DataAccess.pdb
