@@ -1,0 +1,9 @@
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Repository\bin\Debug\Repository.dll
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Repository\bin\Debug\Repository.pdb
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Repository\bin\Debug\Domain.dll
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Repository\bin\Debug\Domain.pdb
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Repository\obj\Debug\Repository.dll
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Repository\obj\Debug\Repository.pdb

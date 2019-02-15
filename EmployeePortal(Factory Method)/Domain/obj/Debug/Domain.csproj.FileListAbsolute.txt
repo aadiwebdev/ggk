@@ -1,0 +1,6 @@
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Domain\bin\Debug\Domain.dll
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Domain\bin\Debug\Domain.pdb
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Domain\obj\Debug\Domain.dll
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Domain\obj\Debug\Domain.pdb
