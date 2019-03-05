@@ -1,0 +1,11 @@
+d:\Users\Aditya.Tangirala\Desktop\OutParameter\OutParameter\OutParameter\bin\Debug\netcoreapp2.2\OutParameter.deps.json
+d:\Users\Aditya.Tangirala\Desktop\OutParameter\OutParameter\OutParameter\bin\Debug\netcoreapp2.2\OutParameter.runtimeconfig.json
+d:\Users\Aditya.Tangirala\Desktop\OutParameter\OutParameter\OutParameter\bin\Debug\netcoreapp2.2\OutParameter.runtimeconfig.dev.json
+d:\Users\Aditya.Tangirala\Desktop\OutParameter\OutParameter\OutParameter\bin\Debug\netcoreapp2.2\OutParameter.dll
+d:\Users\Aditya.Tangirala\Desktop\OutParameter\OutParameter\OutParameter\bin\Debug\netcoreapp2.2\OutParameter.pdb
+d:\Users\Aditya.Tangirala\Desktop\OutParameter\OutParameter\OutParameter\obj\Debug\netcoreapp2.2\OutParameter.csprojAssemblyReference.cache
+d:\Users\Aditya.Tangirala\Desktop\OutParameter\OutParameter\OutParameter\obj\Debug\netcoreapp2.2\OutParameter.csproj.CoreCompileInputs.cache
+d:\Users\Aditya.Tangirala\Desktop\OutParameter\OutParameter\OutParameter\obj\Debug\netcoreapp2.2\OutParameter.AssemblyInfoInputs.cache
+d:\Users\Aditya.Tangirala\Desktop\OutParameter\OutParameter\OutParameter\obj\Debug\netcoreapp2.2\OutParameter.AssemblyInfo.cs
+d:\Users\Aditya.Tangirala\Desktop\OutParameter\OutParameter\OutParameter\obj\Debug\netcoreapp2.2\OutParameter.dll
+d:\Users\Aditya.Tangirala\Desktop\OutParameter\OutParameter\OutParameter\obj\Debug\netcoreapp2.2\OutParameter.pdb
