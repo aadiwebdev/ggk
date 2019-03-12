@@ -1,0 +1,16 @@
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Domain\bin\Debug\Domain.dll
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Domain\bin\Debug\Domain.pdb
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Domain\obj\Debug\Domain.dll
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\Domain\obj\Debug\Domain.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\Domain\bin\Debug\Domain.dll
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\Domain\bin\Debug\Domain.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\Domain\bin\Debug\AutoMapper.dll
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\Domain\bin\Debug\AutoMapper.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\Domain\bin\Debug\AutoMapper.xml
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\Domain\obj\Debug\Domain.csproj.CopyComplete
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\Domain\obj\Debug\Domain.dll
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\Domain\obj\Debug\Domain.pdb
