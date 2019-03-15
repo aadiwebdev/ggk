@@ -1,0 +1,52 @@
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\obj\Debug\ConApp.csprojAssemblyReference.cache
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\obj\Debug\ConApp.csproj.CoreCompileInputs.cache
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\bin\Debug\ConApp.exe.config
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\bin\Debug\ConApp.exe
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\bin\Debug\ConApp.pdb
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\bin\Debug\Business.dll
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\bin\Debug\Domain.dll
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\bin\Debug\Repository.dll
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\bin\Debug\Business.pdb
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\bin\Debug\Domain.pdb
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\bin\Debug\Repository.pdb
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\obj\Debug\ConApp.csproj.CopyComplete
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\obj\Debug\ConApp.exe
+C:\Users\aditya.tangirala\source\repos\EmployeePortal\ConApp\obj\Debug\ConApp.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\ConApp.exe.config
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\ConApp.exe
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\ConApp.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\AutoMapper.dll
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\Business.dll
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\Domain.dll
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\System.ValueTuple.dll
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\Repository.dll
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\Business.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\Domain.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\AutoMapper.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\AutoMapper.xml
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\System.ValueTuple.xml
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\bin\Debug\Repository.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\obj\Debug\ConApp.csprojAssemblyReference.cache
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\obj\Debug\ConApp.csproj.CoreCompileInputs.cache
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\obj\Debug\ConApp.csproj.CopyComplete
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\obj\Debug\ConApp.exe
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(Factory Method)\ConApp\obj\Debug\ConApp.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\ConApp.exe.config
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\ConApp.exe
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\ConApp.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\AutoMapper.dll
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\Business.dll
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\Domain.dll
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\System.ValueTuple.dll
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\Repository.dll
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\Business.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\Domain.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\AutoMapper.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\AutoMapper.xml
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\System.ValueTuple.xml
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\bin\Debug\Repository.pdb
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\obj\Debug\ConApp.csprojAssemblyReference.cache
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\obj\Debug\ConApp.csproj.CoreCompileInputs.cache
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\obj\Debug\ConApp.csproj.CopyComplete
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\obj\Debug\ConApp.exe
+D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\ConApp\obj\Debug\ConApp.pdb
