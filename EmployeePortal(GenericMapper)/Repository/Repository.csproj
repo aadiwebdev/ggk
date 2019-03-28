@@ -55,6 +55,10 @@
     <Compile Include="AuthenticationRepo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\DataModel\DataLayer.csproj">
+      <Project>{02171efc-3415-4041-9277-e13d1e87048a}</Project>
+      <Name>DataLayer</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Domain\Domain.csproj">
       <Project>{52794312-efa6-43a5-8007-fbe98c724be4}</Project>
       <Name>Domain</Name>

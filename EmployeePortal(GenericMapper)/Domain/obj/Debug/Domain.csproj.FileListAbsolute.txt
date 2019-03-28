@@ -24,3 +24,15 @@ D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\Domain\obj\Debug\Do
 D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\Domain\obj\Debug\Domain.csproj.CopyComplete
 D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\Domain\obj\Debug\Domain.dll
 D:\Users\Aditya.Tangirala\Desktop\EmployeePortal(AutoMapper)\Domain\obj\Debug\Domain.pdb
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\Domain\bin\Debug\Domain.dll
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\Domain\bin\Debug\Domain.pdb
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\Domain\bin\Debug\AutoMapper.dll
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\Domain\bin\Debug\DataModel.dll
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\Domain\bin\Debug\DataModel.pdb
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\Domain\bin\Debug\AutoMapper.pdb
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\Domain\bin\Debug\AutoMapper.xml
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\Domain\obj\Debug\Domain.dll
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\Domain\obj\Debug\Domain.pdb

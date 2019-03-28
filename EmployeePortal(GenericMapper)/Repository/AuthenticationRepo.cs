@@ -26,7 +26,7 @@ namespace Repository
         /// <returns></returns>
         public string RegisterUser(RegistrationModel registrationModel)
         {
-            UserModel userModel = registrationModel.GetMappedObject();
+            DataLayer.UserModel userModel = registrationModel.GetMappedObject();
             if (!DataSource._userList.Any(m => m.EmailAddress == userModel.EmailAddress))
             {
                 DataSource._userList.Add(userModel);

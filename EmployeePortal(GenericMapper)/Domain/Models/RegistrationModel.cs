@@ -2,7 +2,7 @@
 
 namespace Domain.Models
 {
-    public class RegistrationModel:GenericMapper<UserModel>
+    public class RegistrationModel:GenericMapper<DataLayer.UserModel>
     {
         public string EmailAddress { get; set; }
         public string Password { get; set; }
@@ -13,7 +13,7 @@ namespace Domain.Models
         public RegistrationModel()
         {
             this.SetMapping(x => x.FirstName = this.FirstName, x => x.LastName = this.LastName,
-                x => x.EmailAddress = this.EmailAddress, x => x.Password = this.Password, x => x.ConfirmPassword = this.ConfirmPassword, x => x.IsStudent = this.IsStudent);
+                x => x.EmailAddress = this.EmailAddress, x => x.Password = this.Password,x => x.IsStudent = this.IsStudent);
         }
     }
 }

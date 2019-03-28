@@ -1,0 +1,6 @@
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\DataModel\bin\Debug\DataModel.dll
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\DataModel\bin\Debug\DataModel.pdb
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\DataModel\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\DataModel\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\DataModel\obj\Debug\DataModel.dll
+C:\Users\TEMP\Desktop\EmployeePortal(GenericMapper)\DataModel\obj\Debug\DataModel.pdb

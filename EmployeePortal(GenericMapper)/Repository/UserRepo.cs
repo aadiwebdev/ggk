@@ -8,22 +8,30 @@ namespace Repository
 {
     public class UserRepo
     {
+        private static List<UserModel> _usersList = new List<UserModel>();
+        public UserRepo()
+        {
+            _usersList = DataSource._userList.Select(x => new UserModel()
+                                                     {
+                                                       FirstName = x.FirstName,
+                                                       LastName = x.LastName,
+                                                       EmailAddress = x.EmailAddress,
+                                                       Password =x.Password,
+                                                       IsStudent =x.IsStudent
+                                                     }).ToList();
+        }
         public List<UserModel> GetUserDetails(UserRoleChoice userRoleChoice)
         {
-            List<UserModel> usersList = null;
             switch ((int)userRoleChoice)
             {
                 case 1:
-                    usersList = (List<UserModel>)DataSource._userList.Where(m => m.IsStudent == "true");
+                    _usersList = (List<UserModel>)DataSource._userList.Where(m => m.IsStudent == "true");
                     break;
                 case 2:
-                    usersList = (List<UserModel>)DataSource._userList.Where(m => m.IsStudent == "false");
-                    break;
-                case 3:
-                    usersList = DataSource._userList;
+                    _usersList = (List<UserModel>)DataSource._userList.Where(m => m.IsStudent == "false");
                     break;
             }
-            return usersList;
+            return _usersList;
         }
     }
 }
